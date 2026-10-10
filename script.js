@@ -69,5 +69,5 @@ function applyRunData(){
   $$('.date-range').forEach(el=>el.textContent=`${summary.date_start} → ${summary.date_end}`); $$('.warmup-note').forEach(el=>el.textContent=summary.warmup_note);
   heatmap();feed();renderTable();campaignGrid();causeGrid();stability();curve();sweep();review();replay();upload();bindExpandedModules();
 }
-async function loadRunData(){try{runData=await fetch('/data/run.json').then(r=>r.json());summary=runData.summary;campaigns=runData.campaigns.map(c=>({id:c.campaign_id,name:c.campaign_name,channel:c.channel,vertical:c.vertical,lp:c.landing_page_group,health:c.health}));alerts=runData.alerts;causes=runData.causes;applyRunData()}catch(error){console.error('QuietAlert run data failed to load',error);toast('Run data unavailable; refresh to retry.')}}
+async function loadRunData(){try{runData=await fetch('public/data/run.json').then(r=>r.json());summary=runData.summary;campaigns=runData.campaigns.map(c=>({id:c.campaign_id,name:c.campaign_name,channel:c.channel,vertical:c.vertical,lp:c.landing_page_group,health:c.health}));alerts=runData.alerts;causes=runData.causes;applyRunData()}catch(error){console.error('QuietAlert run data failed to load',error);toast('Run data unavailable; refresh to retry.')}}
 loadRunData();

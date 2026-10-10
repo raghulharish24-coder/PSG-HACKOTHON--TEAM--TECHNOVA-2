@@ -6,7 +6,7 @@ QuietAlert is the PS-04 hackathon project from **Team Nova**: an operator-first 
 
 > **The promise:** fewer interruptions without hiding the signal.
 
-[Open the live site](https://ps04alert-8hzyvngm.manus.space/) · [Run the 90-second demo](docs/DEMO.md) · [Recompute the UI data](scripts/run_pipeline.py)
+[Open the GitHub Pages demo](https://raghulharish24-coder.github.io/PSG-HACKOTHON--TEAM--TECHNOVA-2/) · [Open the Manus live site](https://ps04alert-8hzyvngm.manus.space/) · [Run the 90-second demo](docs/DEMO.md) · [Recompute the UI data](scripts/run_pipeline.py)
 
 ---
 
