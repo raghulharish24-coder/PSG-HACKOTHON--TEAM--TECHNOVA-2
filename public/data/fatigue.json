@@ -1,0 +1,9 @@
+{
+  "quietalert_trust": 0.997,
+  "naive_trust": 0.624,
+  "quietalert_alerts_per_week": 0.04,
+  "naive_alerts_per_week": 5.65,
+  "naive_mute_day": null,
+  "incidents_lost": null,
+  "note": "Label-free fatigue proxy derived from routed alert load; no mute-day or incident-recall claim is made without labels."
+}

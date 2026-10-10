@@ -1,0 +1,31 @@
+{
+  "alerts_per_campaign_month": 0.009,
+  "stability_score": 100.0,
+  "operator_review_precision": 66.7,
+  "operator_reviews": [
+    {
+      "id": "review-1",
+      "alert_id": "AL-03-NB",
+      "campaign_id": "C03",
+      "label": "real",
+      "note": "Conversion collapse is actionable and reproducible."
+    },
+    {
+      "id": "review-2",
+      "alert_id": "candidate-C01",
+      "campaign_id": "C01",
+      "label": "noise",
+      "note": "A volume step without a ratio break."
+    },
+    {
+      "id": "review-3",
+      "alert_id": "candidate-C02",
+      "campaign_id": "C02",
+      "label": "real",
+      "note": "Review confirms a measurable campaign change."
+    }
+  ],
+  "dedupe_compression": 134.0,
+  "scored_days": 166,
+  "warmup_note": "first 14 days = warmup"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "tag": "LANDING PAGE / LP-B",
+    "title": "1 campaign share one investigation",
+    "desc": "Observed anomalies are grouped by landing-page context before routing.",
+    "affected": [
+      "C03"
+    ],
+    "action": "Check the LP-B conversion and CRM handoff once.",
+    "impact": "1 campaign · 1 merged alert",
+    "tone": "primary"
+  }
+]

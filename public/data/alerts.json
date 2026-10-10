@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AL-03-NB",
+    "camp": "C03",
+    "name": "Google | Competitor Search",
+    "channel": "Google Search",
+    "vertical": "ecommerce",
+    "lp": "LP-B",
+    "type": "TRACKING_BROKEN",
+    "label": "Tracking broken",
+    "severity": "medium",
+    "route": "daily digest",
+    "metric": "conversions",
+    "observed": "3",
+    "expected": "25",
+    "band": "10 — 40",
+    "deviation": "-88.1%",
+    "z": "-3.6",
+    "persist": "5d",
+    "money": "$12.5k",
+    "money_at_risk": 12504.01,
+    "window": "Apr 30 → May 04",
+    "start_date": "2026-04-30",
+    "end_date": "2026-05-04",
+    "reason": "Conversions moved outside the exposure-aware predictive band while traffic remained measurable.",
+    "status": "open",
+    "confidence": 0.5
+  }
+]

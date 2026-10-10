@@ -1,0 +1,14 @@
+{
+  "money_at_risk": 12504.01,
+  "money_at_risk_display": "$12.5k",
+  "wasted_spend": 54.0,
+  "wasted_spend_display": "$54",
+  "lost_revenue": 12504.01,
+  "lost_revenue_display": "$12.5k",
+  "expected_revenue": 29656303.01,
+  "expected_revenue_display": "$29.7m",
+  "observed_revenue": 29643799.0,
+  "observed_revenue_display": "$29.6m",
+  "roas_delta_pct": -0.0,
+  "measures_note": "These are different measures: money at risk is exposure-weighted potential loss; wasted spend is spend inefficiency; lost revenue is observed-vs-expected revenue gap. They are not additive."
+}

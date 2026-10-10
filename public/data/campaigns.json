@@ -1,0 +1,182 @@
+[
+  {
+    "campaign_id": "C01",
+    "campaign_name": "Google | Brand Search",
+    "channel": "Google Search",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C02",
+    "campaign_name": "Google | Generic Search",
+    "channel": "Google Search",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C03",
+    "campaign_name": "Google | Competitor Search",
+    "channel": "Google Search",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-B",
+    "rows": 180,
+    "health": "warn"
+  },
+  {
+    "campaign_id": "C04",
+    "campaign_name": "Google | Shopping - Bestsellers",
+    "channel": "Google Shopping",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C05",
+    "campaign_name": "Google | Shopping - Long Tail",
+    "channel": "Google Shopping",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C06",
+    "campaign_name": "Google | Performance Max",
+    "channel": "Google PMax",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C07",
+    "campaign_name": "Meta | Prospecting - Broad",
+    "channel": "Meta",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C08",
+    "campaign_name": "Meta | Prospecting - Lookalike",
+    "channel": "Meta",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C09",
+    "campaign_name": "Meta | Retargeting",
+    "channel": "Meta",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C10",
+    "campaign_name": "Meta | Advantage+ Shopping",
+    "channel": "Meta",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C11",
+    "campaign_name": "Bing | Brand Search",
+    "channel": "Microsoft Search",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C12",
+    "campaign_name": "Bing | Generic Search",
+    "channel": "Microsoft Search",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-B",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C13",
+    "campaign_name": "Google | B2B Lead Gen - Search",
+    "channel": "Google Search",
+    "vertical": "b2b",
+    "landing_page_group": "LP-C",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C14",
+    "campaign_name": "Google | B2B Lead Gen - Demand Gen",
+    "channel": "Google Demand Gen",
+    "vertical": "b2b",
+    "landing_page_group": "LP-C",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C15",
+    "campaign_name": "LinkedIn | B2B Lead Gen",
+    "channel": "LinkedIn",
+    "vertical": "b2b",
+    "landing_page_group": "LP-C",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C16",
+    "campaign_name": "Meta | B2B Lead Ads",
+    "channel": "Meta",
+    "vertical": "b2b",
+    "landing_page_group": "LP-C",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C17",
+    "campaign_name": "YouTube | Awareness",
+    "channel": "YouTube",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-A",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C18",
+    "campaign_name": "TikTok | Prospecting",
+    "channel": "TikTok",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-B",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C19",
+    "campaign_name": "Pinterest | Prospecting",
+    "channel": "Pinterest",
+    "vertical": "ecommerce",
+    "landing_page_group": "LP-B",
+    "rows": 180,
+    "health": "healthy"
+  },
+  {
+    "campaign_id": "C20",
+    "campaign_name": "Google | Display Remarketing",
+    "channel": "Google Display",
+    "vertical": "ecommerce",
+    "landing_page_group": "PDP",
+    "rows": 180,
+    "health": "healthy"
+  }
+]

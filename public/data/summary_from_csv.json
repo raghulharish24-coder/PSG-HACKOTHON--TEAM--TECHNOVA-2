@@ -1,0 +1,11 @@
+{
+  "dataset": "daily_campaign_metrics.csv",
+  "rows": 3600,
+  "campaigns": 20,
+  "days": 180,
+  "date_start": "2026-03-01",
+  "date_end": "2026-08-27",
+  "warmup_days": 14,
+  "label_free": true,
+  "pipeline_version": "fixed-baseline-v1"
+}

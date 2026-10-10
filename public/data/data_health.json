@@ -1,0 +1,12 @@
+{
+  "status": "complete",
+  "rows": 3600,
+  "campaigns": 20,
+  "days": 180,
+  "missing_days": 0,
+  "negative_values": 0,
+  "zero_impression_rows": 0,
+  "schema_columns": 11,
+  "schema_expected": 11,
+  "score": 100.0
+}
